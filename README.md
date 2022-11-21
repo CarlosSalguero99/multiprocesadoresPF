@@ -31,3 +31,21 @@ Tiempo de ejecución en servidor:  8.456709
 Tiempo de ejecución en LapTop:   0.003639
 
 Tiempo de ejecución en servidor:  0.013663
+
+### Comparacion de Actividad 1.5DiscoDuro
+[![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
+Tiempo de ejecución en LapTop:   7.701824
+
+Tiempo de ejecución en servidor:  30.972593
+
+### Comparacion de Actividad 1.5
+
+Tiempo de ejecución en LapTop:   0.003639
+
+Tiempo de ejecución en servidor:  0.013663
+
+### Comparacion de Actividad 1.5RAM
+[![Captura-de-pantalla-25.png](https://i.postimg.cc/RV28Xs0N/Captura-de-pantalla-25.png)](https://postimg.cc/QHk0Mq13)
+Tiempo de ejecución en LapTop:   0.003639
+
+Tiempo de ejecución en servidor:  0.013663

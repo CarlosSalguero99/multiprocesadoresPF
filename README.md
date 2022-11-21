@@ -6,6 +6,9 @@ En este repositorio se pondrán a prueba diversos códigos con el proposito de h
 
 ## Pasos para crear un servidor en la nube
 A continuación se mostraran los pasos para crear nuestro servidor.
+Google Cloud - Google Cloud Storage
+https://cloud.google.com/google/cloudstorage
+
 [![Captura-de-pantalla-11.png](https://i.postimg.cc/1zVZywq8/Captura-de-pantalla-11.png)](https://postimg.cc/QBDzbBSD)
 [![Captura-de-pantalla-12.png](https://i.postimg.cc/50wdCJp1/Captura-de-pantalla-12.png)](https://postimg.cc/cg45pVV5)
 [![Captura-de-pantalla-13.png](https://i.postimg.cc/NMhvFF6p/Captura-de-pantalla-13.png)](https://postimg.cc/cKcb5s5n)

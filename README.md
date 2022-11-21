@@ -13,13 +13,3 @@ Proyecto Final de Multiprocesadores en donde se comparará algunos códigos prob
 [![Captura-de-pantalla-20.png](https://i.postimg.cc/nrw2s56p/Captura-de-pantalla-20.png)](https://postimg.cc/1Vww2Wmj)
 [![Captura-de-pantalla-21.png](https://i.postimg.cc/D0z5wFpx/Captura-de-pantalla-21.png)](https://postimg.cc/r0v5h6k4)
 [![Captura-de-pantalla-22.png](https://i.postimg.cc/cHhXW6hK/Captura-de-pantalla-22.png)](https://postimg.cc/MMcyb6hx)
-
-## Programas a comparar
-Estos programas se encuentran en la carpeta de "programas"
-a)
-b)
-c)
-d)
-
-### Resultados
-

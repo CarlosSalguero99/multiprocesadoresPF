@@ -38,14 +38,21 @@ Tiempo de ejecución en LapTop:   7.701824
 
 Tiempo de ejecución en servidor:  30.972593
 
-### Comparacion de Actividad 1.5
+### Comparacion de Actividad 2.1
+[![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
+Tiempo de ejecución en LapTop:   0.013619
 
-Tiempo de ejecución en LapTop:   0.003639
+Tiempo de ejecución en servidor:  0.003784
 
-Tiempo de ejecución en servidor:  0.013663
+### Imagen
+[![imag.png](https://i.postimg.cc/rp1gS4gH/imag.png)](https://postimg.cc/Jyhb8Gf3)
+[![img2-dd.png](https://i.postimg.cc/76q9XLWZ/img2-dd.png)](https://postimg.cc/NyPRjQt3)
 
-### Comparacion de Actividad 1.5RAM
+### Comparacion de Actividad 2.2 (blurring)
 [![Captura-de-pantalla-25.png](https://i.postimg.cc/RV28Xs0N/Captura-de-pantalla-25.png)](https://postimg.cc/QHk0Mq13)
 Tiempo de ejecución en LapTop:   0.003639
 
 Tiempo de ejecución en servidor:  0.013663
+
+
+

@@ -14,13 +14,13 @@ Proyecto Final de Multiprocesadores en donde se comparará algunos códigos prob
 [![Captura-de-pantalla-21.png](https://i.postimg.cc/D0z5wFpx/Captura-de-pantalla-21.png)](https://postimg.cc/r0v5h6k4)
 [![Captura-de-pantalla-22.png](https://i.postimg.cc/cHhXW6hK/Captura-de-pantalla-22.png)](https://postimg.cc/MMcyb6hx)
 
-Comparacion de Actividad 1.3
+### Comparacion de Actividad 1.3
 [![Captura-de-pantalla-23.png](https://i.postimg.cc/TYtSvN1d/Captura-de-pantalla-23.png)](https://postimg.cc/F7JGjZ08)
 Tiempo de ejecución en Lap Top:   0.004171
 
 Tiempo de ejecución en servidor:  0.001198
 
-Comparacion de Actividad 1.4
+### Comparacion de Actividad 1.4
 [![Captura-de-pantalla-24.png](https://i.postimg.cc/VkjCbpt1/Captura-de-pantalla-24.png)](https://postimg.cc/sMgXknK0)
 Tiempo de ejecución en Lap Top:   2.001725
 

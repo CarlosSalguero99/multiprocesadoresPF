@@ -23,19 +23,19 @@ https://cloud.google.com/google/cloudstorage
 [![Captura-de-pantalla-22.png](https://i.postimg.cc/cHhXW6hK/Captura-de-pantalla-22.png)](https://postimg.cc/MMcyb6hx)
 
 ## Códigos
-Para la sección de códigos se harán diversas pruebas con diferentes códigos para tomar el tiempo de ejecución de este.
+Para la sección de códigos se harán diversas pruebas con diferentes códigos para tomar el tiempo de ejecución de este. Todos los códigos se anexarán en una carpeta.
 
 ### Comparacion de Actividad 1.3
 En este código otorgaremos diversas tareas para ver como reacciona los threads y en que orden los toma. Se utilizaron 18 para este problema.
 [![Captura-de-pantalla-23.png](https://i.postimg.cc/TYtSvN1d/Captura-de-pantalla-23.png)](https://postimg.cc/F7JGjZ08)
-Tiempo de ejecución en LapTop:   0.004171
+Tiempo de ejecución en LapTop:    0.004171
 
 Tiempo de ejecución en servidor:  0.001198
 
 ### Comparacion de Actividad 1.4
 Para esta parte realizara el priceso de calcular el valor de PI sin la libreria "MATH" y asignandole 5827 threads.
 [![Captura-de-pantalla-24.png](https://i.postimg.cc/VkjCbpt1/Captura-de-pantalla-24.png)](https://postimg.cc/sMgXknK0)
-Tiempo de ejecución en LapTop:   2.001725
+Tiempo de ejecución en LapTop:    2.001725
 
 Tiempo de ejecución en servidor:  8.456709
 
@@ -43,19 +43,19 @@ Tiempo de ejecución en servidor:  8.456709
 Para esta actividad realizamos dos problemas, uno que mencione el tiempo de ejecucuion que se ocuparia en el Disco Duro y otro que se tomaria en la RAM. Para ambos casos se utilizaron 6 threads y ambos se encargaran de carcular los valores de euler 10000000 veces.
 
 [![Captura-de-pantalla-25.png](https://i.postimg.cc/RV28Xs0N/Captura-de-pantalla-25.png)](https://postimg.cc/QHk0Mq13)
-Tiempo de ejecución en LapTop:   0.003639
+Tiempo de ejecución en LapTop:    0.003639
 
 Tiempo de ejecución en servidor:  0.013663
 
 [![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
-Tiempo de ejecución en LapTop:   7.701824
+Tiempo de ejecución en LapTop:     7.701824
 
 Tiempo de ejecución en servidor:  30.972593
 
 ### Comparacion de Actividad 2.1
 Para este código tomaremos una imagen en formato ".bmp" y lo que realizara sera hacer el cambio a escala de grises de esta imagen.
 [![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
-Tiempo de ejecución en LapTop:   0.013619
+Tiempo de ejecución en LapTop:    0.013619
 
 Tiempo de ejecución en servidor:  0.003784
 
@@ -64,10 +64,14 @@ Tiempo de ejecución en servidor:  0.003784
 [![img2-dd.png](https://i.postimg.cc/76q9XLWZ/img2-dd.png)](https://postimg.cc/NyPRjQt3)
 
 ### Comparacion de Actividad 2.2 (blurring)
-[![Captura-de-pantalla-25.png](https://i.postimg.cc/RV28Xs0N/Captura-de-pantalla-25.png)](https://postimg.cc/QHk0Mq13)
-Tiempo de ejecución en LapTop:   0.003639
+Para este código realiza algo similar al anterior solo que este se encargará de hacer un bluring(haecrla borrosa) a la imagen u cambiar la orientacion de la imagen.
+[![Captura-de-pantalla-27.png](https://i.postimg.cc/7606Pg1K/Captura-de-pantalla-27.png)](https://postimg.cc/mzZR8159)
+Tiempo de ejecución en LapTop:    0.122460
 
-Tiempo de ejecución en servidor:  0.013663
+Tiempo de ejecución en servidor:  0.087720
+## Imagen
+[![ima.png](https://i.postimg.cc/zf37Qfwz/ima.png)](https://postimg.cc/R35w64by)
+[![gtr35-HD-bmp-out-9x9.png](https://i.postimg.cc/fR855d9q/gtr35-HD-bmp-out-9x9.png)](https://postimg.cc/0zJpybZ7)
 
 ## Conclusiones
 

@@ -8,6 +8,11 @@ En este repositorio se pondrán a prueba diversos códigos con el proposito de h
 A continuación se mostraran los pasos para crear nuestro servidor.
 Google Cloud - Google Cloud Storage
 https://cloud.google.com/google/cloudstorage
+Configuración
+Sistema operativo: Ubuntu 18.04
+Servidor: America del Norte
+RAM:  8 GB
+ROM: 15 GB
 
 [![Captura-de-pantalla-11.png](https://i.postimg.cc/1zVZywq8/Captura-de-pantalla-11.png)](https://postimg.cc/QBDzbBSD)
 [![Captura-de-pantalla-12.png](https://i.postimg.cc/50wdCJp1/Captura-de-pantalla-12.png)](https://postimg.cc/cg45pVV5)
@@ -74,5 +79,4 @@ Tiempo de ejecución en servidor:  0.087720
 [![gtr35-HD-bmp-out-9x9.png](https://i.postimg.cc/fR855d9q/gtr35-HD-bmp-out-9x9.png)](https://postimg.cc/0zJpybZ7)
 
 ## Conclusiones
-
-
+Como se puede observar en algunos de los códigos una diferiencia significativa. En algunos casos los tiempos de ejecución del equipo de computo es menor a del servidor. Esto probablemente se deba a que había más aplicaciones ejecutandose al momento de correr los programas. Así mismo, podemos bservar que en la mayoria los códigos corridos en la LapTop tiene una mejor respuesta esto es lo esperado ya que al ser la nube un servicio y el trafico es mayor.

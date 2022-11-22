@@ -31,34 +31,36 @@ ROM: 15 GB
 Para la sección de códigos se harán diversas pruebas con diferentes códigos para tomar el tiempo de ejecución de este. Todos los códigos se anexarán en una carpeta.
 
 ### Comparacion de Actividad 1.3
-En este código otorgaremos diversas tareas para ver como reacciona los threads y en que orden los toma. Se utilizaron 18 para este problema.
+En este código lo que hacemos es generar "multiples acciones" con el fin de saber que thread fue el que nos respondio primero y en que orden fueron tomados. Se utilizaron 18 threads para realizar esats opereciones.
 [![Captura-de-pantalla-23.png](https://i.postimg.cc/TYtSvN1d/Captura-de-pantalla-23.png)](https://postimg.cc/F7JGjZ08)
 Tiempo de ejecución en LapTop:    0.004171
 
 Tiempo de ejecución en servidor:  0.001198
 
 ### Comparacion de Actividad 1.4
-Para esta parte realizara el priceso de calcular el valor de PI sin la libreria "MATH" y asignandole 5827 threads.
+En este código lo que se busca es que por medio de la formula de euler calcular el valor de PI sin la necesidad de utilizar la libreria de Math y así mismo saber cuando tiempo ha tardado en hacer el proceso del calculo. Para este caso el valor de PI deoende de los Threads, a mayor número mayor presición.
 [![Captura-de-pantalla-24.png](https://i.postimg.cc/VkjCbpt1/Captura-de-pantalla-24.png)](https://postimg.cc/sMgXknK0)
 Tiempo de ejecución en LapTop:    2.001725
 
 Tiempo de ejecución en servidor:  8.456709
 
 ### Comparacion de Actividad 1.5
-Para esta actividad realizamos dos problemas, uno que mencione el tiempo de ejecucuion que se ocuparia en el Disco Duro y otro que se tomaria en la RAM. Para ambos casos se utilizaron 6 threads y ambos se encargaran de carcular los valores de euler 10000000 veces.
+Para este código realizaremos dos actividades un programa se encargara de realizar los procesos utilizando la memoria RAM y otro utilizara el disco duro. Cada programa utilizará 6 threads para hacer los procesos y un valor de 10000000 para calcular los valores de euler. Cada programa guardará los valores para poder ibservar que tan preciso son los resutlados.
 
+###RAM
 [![Captura-de-pantalla-25.png](https://i.postimg.cc/RV28Xs0N/Captura-de-pantalla-25.png)](https://postimg.cc/QHk0Mq13)
 Tiempo de ejecución en LapTop:    0.003639
 
 Tiempo de ejecución en servidor:  0.013663
-
+### Disco Duro
 [![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
 Tiempo de ejecución en LapTop:     7.701824
 
 Tiempo de ejecución en servidor:  30.972593
 
 ### Comparacion de Actividad 2.1
-Para este código tomaremos una imagen en formato ".bmp" y lo que realizara sera hacer el cambio a escala de grises de esta imagen.
+En este programaP
+ara este código tomaremos una imagen en formato ".bmp" y lo que realizara sera hacer el cambio a escala de grises de esta imagen.
 [![Captura-de-pantalla-26.png](https://i.postimg.cc/L64fG2nW/Captura-de-pantalla-26.png)](https://postimg.cc/Lh7n1dkk)
 Tiempo de ejecución en LapTop:    0.013619
 
